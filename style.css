@@ -100,11 +100,7 @@ body{
     font-size: 30px;
 }
 
-/* stop editing here */
-.navbar  a:hover{
-  text-decoration: underline;
-   
-}
+
 .myself{
     margin-top: 100px;
     margin-left: 50px;
